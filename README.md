@@ -142,18 +142,18 @@ Tested scenarios include:
 ## 📂 Project Structure (Simplified)
 
 objects/
- ├── o_player
- ├── o_hook
- ├── o_solid
- ├── o_solid_ice
- ├── o_solid_gum
- ├── o_solid_bridge
+├── o_player
+├── o_hook
+├── o_solid
+├── o_solid_ice
+├── o_solid_gum
+├── o_solid_bridge
 
 rooms/
- ├── rm_map
+├── rm_map
 
 scripts/
- ├── player_processes
+├── player_processes
 
 ---
 
