@@ -1,0 +1,2 @@
+draw_sprite_ext(s_rope, 0, o_player.x, o_player.y, ((point_distance(o_player.x, o_player.y, x, y) + 1) / sprite_get_width(s_rope)), 1, point_direction(o_player.x, o_player.y, x, y), c_white, 1);
+draw_self();
