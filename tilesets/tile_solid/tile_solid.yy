@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"s_solid_tile",
-    "path":"sprites/s_solid_tile/s_solid_tile.yy",
+    "name":"spr_solid_tile",
+    "path":"sprites/spr_solid_tile/spr_solid_tile.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

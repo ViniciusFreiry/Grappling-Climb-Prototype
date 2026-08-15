@@ -1,0 +1,1 @@
+obj_game.game_pause(false);
